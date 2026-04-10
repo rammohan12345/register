@@ -1,0 +1,8 @@
+{
+    "owner": {
+      "username": "yourGitHubUsername"
+    },
+    "record": {
+      "CNAME": "yourusername.github.io"
+    }
+  }
