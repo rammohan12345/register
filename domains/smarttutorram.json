@@ -1,8 +1,9 @@
 {
-    "owner": {
-      "username": "yourGitHubUsername"
-    },
-    "record": {
-      "CNAME": "yourusername.github.io"
-    }
+  "owner": {
+    "username": "rammohan12345",
+    "email": "rammohanpathak1@gmail.com"
+  },
+  "record": {
+    "CNAME": "rammohan12345.github.io"
   }
+}
